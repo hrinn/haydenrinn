@@ -1,0 +1,294 @@
+@import url(layout.css)
+head{
+  
+}
+
+body {
+	background:#efefe2;
+
+        background-color:#999999
+        color: #333
+	padding:0px;
+	margin: auto;
+	width: 900;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	font-size: 16px;
+
+}
+
+.content 
+{
+	margin: 20px;
+        padding-top: 20px;
+	background-color:#fff;
+	background:#fff;
+        padding:20px;
+	width: 780px;
+}
+
+
+
+.header
+{
+   margin-bottom: 20px;
+}
+
+
+#title {
+	color: black;
+	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20pt;
+	font-weight: normal;
+
+}
+
+.center {
+text-align:center;
+}
+
+.mainbox {
+text-align:left;
+}
+
+.mainbox h1 {
+font: 20pt Verdana, Arial, Helvetica, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.mainbox p {
+margin-top: 0.5em;
+	margin-left:20px;
+font-size: 16px;
+}
+.mainbox li {
+  font-size:16px;
+}
+.wrapper{
+margin-left: auto;
+margin-right: auto;
+   width: 680px;
+	height: auto;
+
+
+}
+.left{
+   float: left;
+   width: 320px;
+   height: auto;
+margin-right:20px;
+   margin-bottom: 20px;
+
+}
+.right{
+float:left;
+   width: 320px;
+   height: auto;
+margin-left:20px;
+   margin-bottom: 20px;
+}
+
+a {
+color: #0000AA;
+/*font-weight: bold;*/
+text-decoration: none;
+}
+
+.more {
+font-style: italic;
+text-align: right;
+}
+
+.publist {
+list-style: none;
+}
+
+.publist li {
+margin-bottom: 1em;
+}
+
+.pageheader
+{
+text-align: center;
+font: 29pt Verdana, Arial, Helvetica, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.pagelinks
+{
+	width: 600px;
+	margin: auto;
+	margin-bottom: 1em;
+	list-style: none;
+	padding: 0;
+	text-align: center;
+}
+
+.pagelinks li{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	width: auto; 
+padding: 2px 15px;
+}
+
+.pdficon {
+	border:0;
+}
+
+.navbar{
+	display: inline-block;
+	background-color: #224097;
+	width: 780px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.navbar ul
+{
+	display: inline-block;
+	padding: 0;
+	font: 16px Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	list-style: none;
+	border: none;
+	margin: auto;
+}
+
+.navbar li{
+	font:Helvetica, Arial, sans-serif;
+	display: block;
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: auto; 	
+}
+
+.navbar a{
+	display: inline-block;
+	color:#FFFFFF;
+	font-weight: bold;
+	width: auto;
+	text-decoration: none;
+	margin: 0;
+	padding: 10px 15px 10px 15px;	
+}
+
+.navbar a:hover{
+	color:#223388;
+	background-color: #bdbed6;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#0000FF;
+	text-decoration: underline;
+}
+
+
+{
+  color: gray;
+
+}
+table td
+{
+	color: black;
+	font-size: 16px;
+}
+
+
+.backlink {
+text-align:center;
+padding-bottom: 15px;
+}
+.backlink a
+{
+color:black;
+font-family:Times New Roman,Serif;
+font-style:italic;
+font-weight:normal;
+text-decoration:none;
+}
+
+
+.mainbox .content .wrapper table tr th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.mainbox .content .wrapper table tr th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.mainbox .content .wrapper table tr th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: normal;
+	font-size: 12px;
+	border-right-width: thin;
+	border-right-style: none;
+	border-right-color: #000;
+	border-top-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+.mainbox .content .wrapper table tr #title div {
+	text-align: left;
+}
+.dffd {
+	text-align: left;
+}
+.leftjus {
+	text-align: left;
+	font-style: italic;
+
+}
+.mainbox .content .wrapper table tr th .mainbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: italic;
+}
+.posname {
+	font-size: 16px;
+}
+.mytitle {
+	font-family: "Garamond", Georgia, Serif;
+	font-weight: bold;
+	font-size: 34px;
+}
+.toptablecell {
+	border-right-style: solid;
+	border-right-color: #000;
+}
+.mainbox .content .wrapper .MenuBarActive ul li a:hover {
+	display: inline;
+	float: right;
+	list-style-type: none;
+}
+#MenuBarActive {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#MenuBarActive {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #063;
+	height: 35px;
+}
+.myname {
+}
+.toptable {
+	border-right-style: solid;
+	border-right-color: #333;
+}
+.mynamecell {
+	border-right-style: solid;
+	border-right-color: #000;
+}
+.mainbox .content .wrapper table tr .mynamecell {
+	border-right-style: solid;
+	border-right-color: #000;
+}
+.newstudents {
+	background-color: #F63;
+}
